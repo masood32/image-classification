@@ -3,3 +3,4 @@ Pillow
 torchvision
 torch
 requests
+transformers
